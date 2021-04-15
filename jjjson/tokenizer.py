@@ -9,8 +9,10 @@ class Token:
 class Etc(Token):
     pass
 
+
 class Spaces(Token):
     pass
+
 
 class LeftBrace(Token):
     pass
